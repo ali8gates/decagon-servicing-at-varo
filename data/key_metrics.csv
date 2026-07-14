@@ -1,0 +1,6 @@
+metric,before,after,period,evidence,source_meeting
+Net promoter score,40 to 50,over 80,before vs after full deployment,project lead reporting,survey report held internally
+Card resolution without a person,44%,57%,Apr 2026 to Jul 2026,internal review,Weekly team sync 2026-07-08
+Chat traffic on Decagon,0%,100%,by Jul 2026,internal review,Weekly team sync 2026-07-08
+Chat success rate (early),Lex 55%,Decagon 43%,7 days before 2026-04-03,company training,Decagon AI training 2026-04-03
+Dispute intake cost,manual,40% lower (target),Q3 2026,target,Weekly team sync 2026-07-08
