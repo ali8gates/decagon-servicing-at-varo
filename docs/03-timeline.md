@@ -11,7 +11,7 @@
 | Jan 29, 2026 | Blocker: Decagon kept changing its data format, breaking Varo's reports | Decagon Blockers, Jan 29, 2026 |
 | Feb 2, 2026 | Contact reason tags and privacy masking tests | Decagon Lex standup, Feb 2, 2026 |
 | Feb 3, 2026 | Weekly with Decagon: masking of personal data with Google's tool, advance notice of data changes | Decagon/Varo weekly, Feb 3, 2026 |
-| Feb 11, 2026 | Deep dive on how Decagon picks answers and checks itself | How Decagon works walkthrough, Feb 11, 2026 |
+| Feb 11, 2026 | Walkthrough of how Decagon picks answers and checks itself | How Decagon works walkthrough, Feb 11, 2026 |
 | Feb 26, 2026 | Test set of about 30 standard questions; feedback process | Varo: Decagon build review, Feb 26, 2026 |
 | Mar 10, 2026 | Launch review: waiting on App Store approval; review first 100 chats, fix top 3 issues, go to 5% | App Launch and Feedback Review, Mar 10, 2026 |
 | Apr 3, 2026 | Company training: Decagon 43% vs. Lex 55% success while still limited to help articles | Decagon company training, Apr 3, 2026 |
