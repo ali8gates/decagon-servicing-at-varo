@@ -16,6 +16,8 @@ It is written for readers across support operations, product, engineering, data,
 
 - [How I led this](docs/17-how-i-led-this.md): the hats I wore, how I worked with the customer experience team, and the outcomes.
 - [What this changed for servicing](docs/16-servicing-impact.md): card questions, account requests, handoffs, and dispute intake, before and after.
+- [What counts as resolved in banking](docs/19-what-counts-as-resolved.md): why a happy customer is not always a resolved case, and five levels of resolved.
+- [Unit economics](docs/18-unit-economics.md): what a resolution is worth, and how per-resolution pricing shifts early risk.
 
 ## Wiki pages
 
@@ -36,6 +38,10 @@ It is written for readers across support operations, product, engineering, data,
 15. [Sources and evidence gaps](docs/15-sources.md)
 16. [What this changed for servicing](docs/16-servicing-impact.md)
 17. [How I led this](docs/17-how-i-led-this.md)
+18. [Unit economics: what a resolution is worth](docs/18-unit-economics.md)
+19. [What counts as resolved in banking](docs/19-what-counts-as-resolved.md)
+20. [What would have changed the vendor decision](docs/20-what-would-have-changed-the-decision.md)
+21. [Architecture at a glance](docs/21-architecture.md)
 
 ## How to use this repository
 
@@ -46,4 +52,4 @@ It is written for readers across support operations, product, engineering, data,
 
 ## Status
 
-Last updated September 2, 2026. Owner: Ali Gates, Director of AI and Machine Learning, Varo.
+Last updated October 1, 2026. Owner: Ali Gates, Director of AI and Machine Learning, Varo.
